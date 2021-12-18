@@ -1,2 +1,2 @@
-# Yolo_Algorithm_Object_DetectionOutput
+# Yolo Algorithm Output Detection Module 
 Yolo algorithm output object detection Module
