@@ -1,6 +1,5 @@
 # Yolo Algorithm Output Detection Module 
-Yolo algorithm output object detection Module
-A Yolo Algorith is an object detection algorithm from the images. In this project the aim is to extract  unstructured information "relevant to different objects captured with a camera images " and convert into structured Data Table.  Unstructured input data are available at 'pkg_dump.txt'. 
+A Yolo Algorith is an object detection algorithm from the images based on Deep learning. In pkg_dump.txt file, the output results of Yolo network is avaible. In this project the aim is to convert the unstructured data from pkg_dump.txt file into structured Data Table and save it into the database or CSV file . 
 <br/>
 <br/>
 **Click on**: 
